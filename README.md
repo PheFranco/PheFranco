@@ -41,7 +41,7 @@ Olá, eu sou o Phelipe 👋
       src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg"
       width="80"
       height="30"
-      style="background-color:pink; border-radius:8px; padding:2px;color:pink;"
+      style="background-color:#0A66C2; border-radius:8px; padding:2px;color:pink;"
     />
   </a>
 </p>
