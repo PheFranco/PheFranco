@@ -13,15 +13,11 @@ Olá, eu sou o Phelipe 👋
 
 <p align="start">
   <a href="https://www.linkedin.com/in/phe-franco" target="_blank">
-    <img 
-      alt="Linkedin"
-      title="Meu Linkedin"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-      width="80"
-      height="30"
-      style="background-color:#0A66C2; border-radius:8px; padding:2px;"
-    />
-  </a>
+  <img 
+    alt="LinkedIn"
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+  />
+</a>
 
   <a href="mailto:Phelipefranco153@gmail.com" target="_blank">
   <img 
@@ -40,10 +36,12 @@ Olá, eu sou o Phelipe 👋
 ### Linguagens 
 
 <p align="start">
-<a href="https://www.linkedin.com/in/phe-franco" target="_blank">
-  <img 
-    alt="LinkedIn"
-    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+ <img 
+    alt="HTML5"
+    title="HTML5"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+    width="40"
+    height="40"
   />
 </a>
   <img 
