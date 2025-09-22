@@ -40,13 +40,12 @@ Olá, eu sou o Phelipe 👋
 ### Linguagens 
 
 <p align="start">
+<a href="https://www.linkedin.com/in/phe-franco" target="_blank">
   <img 
-    alt="HTML5"
-    title="HTML5"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-    width="40"
-    height="40"
+    alt="LinkedIn"
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
   />
+</a>
   <img 
     alt="CSS3"
     title="CSS3"
