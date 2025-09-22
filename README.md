@@ -24,26 +24,17 @@ Olá, eu sou o Phelipe 👋
   </a>
 
   <a href="mailto:Phelipefranco153@gmail.com" target="_blank">
-    <img 
-      alt="Email"
-      title="Enviar Email"
-      src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"
-      width="80"
-      height="30"
-      style="background-color:#EA4335; border-radius:8px; padding:2px;"
-    />
-  </a>
-
-   <a href="https://www.instagram.com/seu_usuario" target="_blank">
-    <img 
-      alt="Instagram"
-      title="Meu Instagram"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg"
-      width="80"
-      height="30"
-      style="background-color:#0A66C2; border-radius:8px; padding:2px;color:pink;"
-    />
-  </a>
+  <img 
+    alt="Email"
+    src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+  />
+</a>
+<a href="https://www.instagram.com/seu_usuario" target="_blank">
+  <img 
+    alt="Instagram"
+    src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+  />
+</a>
 </p>
 
 ### Linguagens 
