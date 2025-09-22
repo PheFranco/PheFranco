@@ -25,7 +25,7 @@ Olá, eu sou o Phelipe 👋
     src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
   />
 </a>
-<a href="[https://www.instagram.com/seu_usuario](https://www.instagram.com/phe.franco/)" target="_blank">
+<a href="https://www.instagram.com/phe.franco/" target="_blank">
   <img 
     alt="Instagram"
     src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
