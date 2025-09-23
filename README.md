@@ -62,21 +62,15 @@ Olá, eu sou o Phelipe 👋
 
 ### Estatísticas 
 
-<p>
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px"
-     src="https://github-readme-stats.vercel.app/api?username=PheFranco&show_icons=true&theme=dracula&locate=pt-br"
-/>
-
-<img 
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PheFranco&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
-
-
-</p>
+<div align="center">
+  <img 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api?username=PheFranco&show_icons=true&theme=dracula&locate=pt-br"
+  />
+  <img 
+      alt="Top Languages"
+      height="200"
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PheFranco&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+  />
+</div>
