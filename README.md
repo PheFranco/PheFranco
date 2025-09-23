@@ -74,3 +74,38 @@ Olá, eu sou o Phelipe 👋
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PheFranco&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
 />
 </p>
+
+
+
+## 🌟 Projetos em Destaque
+
+<div align="center">
+  <a href="https://github.com/PheFranco/novo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PheFranco&repo=novo&theme=dracula&hide_border=true" alt="Repo Card" />
+  </a>
+</div>
+
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=PheFranco&color=blueviolet&style=for-the-badge&label=VISUALIZAÇÕES" alt="Profile Views" />
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PheFranco&theme=dracula&no-frame=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies"/>
+</div>
+
+
+
+## 📈 Contribuições Detalhadas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=PheFranco&theme=dracula&hide_border=true" alt="Wakatime Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PheFranco&theme=dracula" alt="Profile Summary"/>
+</div>
